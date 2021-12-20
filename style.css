@@ -1,0 +1,363 @@
+body{
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.menu{
+    
+    position: absolute !important;
+
+    width: 100%;
+    padding: 20px 0px !important;
+}
+.navbar-brand{
+    color: #eee !important;
+    font-family: 'Courgette', cursive;
+
+}
+.nav-link{
+    color: #eee !important;
+    margin: 0px 10px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.nav-link:hover {
+    color: #d15454  !important;
+}
+
+
+
+.navbar-nav{
+    margin-left: auto;
+}
+.banner-bg{
+    background-image: url(./img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+.bg-layer{
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100%;
+}
+.banner-content{
+    padding-top: 250px;
+}
+.banner-content h1{
+    color: white;
+    font-size: 75px;
+    font-weight: 100;
+}
+.banner-content h1 span{
+    font-weight: 400;
+}
+.banner-content p{
+    color: #eee;
+    font-size: 23px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+.banner-content a{
+    color: white;
+    border: 1px solid #d15454;
+    padding: 16px 15px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all .5s;
+
+}
+.banner-content a:hover{
+ background-color: #d15454 ; 
+ color: white;
+
+}
+.form h2{
+    font-size: 24px;
+    
+}
+.estate{
+    padding-top: 215px;
+}
+
+.form {
+    padding: 20px 10px 40px 10px;
+    text-align: center;
+}
+
+.inquiry p{
+    color: white;
+    background-color: #e54242;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 4px 7px;
+    position: relative;
+    top: -38px;
+    width: fit-content;
+    margin: 0;
+}
+
+.form-details a{
+    padding: 10px !important;
+    width: 100% !important;
+    color: #555 !important;
+    font-size: 24px;
+    text-decoration: none;
+}
+.form-details input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 5px;
+    border: none;
+    border-bottom: 1px solid #aaa;
+    font-size: 14px;
+}
+.message{
+    padding: 25px !important;
+    margin-bottom: 5px;
+}
+.form-details button{
+    color: white;
+    background-color: #e54242;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px 8px;
+    border: 1px solid #e54242;
+    margin-top: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.form-details a i{
+    position: relative;
+    top: 2px;
+    font-size: 18px;
+}
+.background-image{
+    background-image: url(./img/about-shape.png);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+.sec-content h6{
+    font-weight: 400;
+    color: blue;
+    font-size: 24px;
+}
+.sec-content h2{
+    color: black;
+    font-size: 38px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+.sec-content h2 span{
+    font-weight: 500;
+    color: blue;
+}
+.sec-content p{
+    color:black;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+.image img{
+    width: 100%;
+}
+.price-third{
+    background-image: url(./img/bg-info3.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
+.background-layer2{
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.third{
+    padding: 80px 35px;
+    color: white;
+}
+.third button{
+    color: white;
+    background-color: #e54242;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 10px 11px;
+    border: 1px solid #e54242;
+   
+}
+.special-offer h2{
+    font-size: 29px;
+    font-weight: 500;
+    padding-bottom: 12px;
+}
+.special-offer p{
+    padding-bottom: 8px;
+    
+}
+.table table{
+    width: 100%;
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 0px 6px;
+    
+}
+
+
+
+.table th{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px;
+    background-color: #e54242;
+   
+}
+
+table td{
+    background-color: #eee;
+    padding: 10px;
+}
+.four img{
+    width: 100%;
+}
+.two-img img{
+    width: 100%;
+}
+
+.two-img h3{
+    font-size: 18px;
+    color: #eee;
+    font-weight: 600;
+    padding: 8px 6px;
+    background-color: white;
+    color: black;
+    margin-top: 2%;
+    text-align: center;
+}
+.two-img p{
+    font-size: 15px;
+    padding: 8px;
+    background-color: white;
+    background-color: #e54242;
+}
+.two-img p i{
+    margin-right: 3%;
+}
+.img-hall{
+    padding: 0%;
+}
+.img-hall img{
+    width: 100%;
+}
+.hall-text {
+    padding: 75px 50px !important;
+}
+
+.hall-text h3{
+    color: #3454d1;
+    font-size: 58px;
+    font-weight: 100;
+    padding-bottom: 20px;
+}
+.hall-text h3 span{
+    font-weight: 400;
+}
+.hall-text p{
+    color: black;
+    font-size: 17px;
+    font-weight: 300;
+    padding-bottom: 13px;
+    text-align: justify;
+    line-height: 30px;
+}
+.hall-text i{
+    color: gold;
+    font-size: 18px;
+}
+.detail-form{
+    background-image: url(./img/bg\ form.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+
+}
+.p-form{
+    padding: 80px 20px !important;
+}
+.form-personal h3{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+.form-personal input{
+    width: 95%;
+    padding: 9px ;
+    margin-bottom: 1%;
+    
+    color: black;
+    border: none;
+  
+}
+
+.form-personal textarea{
+    width: 95%;
+    padding: 9px ;
+    margin-bottom: 1%;
+    color: black;
+    border: none;
+    height: 115px;
+  
+}
+
+.form-personal button{
+    background-color: #3454d1;
+    margin-top: 1%;
+    color: white;
+    border: none;
+    padding: 7px 5px;
+}
+.contact-details {
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 40px 30px;
+}
+.contact-details i{
+    display: block;
+}
+.contact-details h3{
+    color: white;
+    font-size: 23px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.contact-details p{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    padding-bottom: 13px;
+}
+.contact-details i{
+    color: white;
+    font-size: 20px ;
+    padding-bottom: 30px;
+ 
+}
+.contact-details a{
+    color: white !important;
+    font-size: 16px ;
+    text-decoration: none;
+    padding-left: 10px;
+    font-weight: 200;
+    font-family: 'Raleway', sans-serif !important;
+}
+.form-layer{
+    background-color: rgba(0, 0, 0, 0.534);
+}
+
+.end p{
+    color: #eee;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 0%;
+}
